@@ -49,7 +49,7 @@ internal class Program
 
         //각도기
 
-        int answer = solution0726(180);
+        int answer = solution0729(10);
         Console.WriteLine(answer);
 
     }
@@ -235,5 +235,23 @@ static int solution0726(int angle)//0726
      return answer;
 }
 
+
+static int solution0729(int n) //짝수의 합 구하기
+{
+        int answer = 0;
+        for (int i = 1; i <= n; i++)
+        {
+            if (i % 2 == 0)
+            {
+                answer += i;
+            }
+/*             else
+            {
+                continue;
+            }
+ */    
+        }
+        return answer;
+    }
 }
 
