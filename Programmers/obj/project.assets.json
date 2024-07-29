@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#수업\\Programmers\\pro.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\SBSACARDEMY\\Programmers\\pro.csproj",
       "projectName": "pro",
-      "projectPath": "D:\\C#수업\\Programmers\\pro.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SBSACARDEMY\\Programmers\\pro.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\C#수업\\Programmers\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\SBSACARDEMY\\Programmers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
