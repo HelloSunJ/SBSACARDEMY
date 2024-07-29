@@ -1,0 +1,14 @@
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.AssemblyInfoInputs.cache
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.AssemblyInfo.cs
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.csproj.CoreCompileInputs.cache
+d:\C#수업\pro\bin\bin\Debug\net8.0\bin.exe
+D:\C#수업\pro\bin\bin\Debug\net8.0\bin.deps.json
+D:\C#수업\pro\bin\bin\Debug\net8.0\bin.runtimeconfig.json
+d:\C#수업\pro\bin\bin\Debug\net8.0\bin.dll
+d:\C#수업\pro\bin\bin\Debug\net8.0\bin.pdb
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.dll
+d:\C#수업\pro\bin\obj\Debug\net8.0\refint\bin.dll
+d:\C#수업\pro\bin\obj\Debug\net8.0\bin.pdb
+D:\C#수업\pro\bin\obj\Debug\net8.0\bin.genruntimeconfig.cache
+D:\C#수업\pro\bin\obj\Debug\net8.0\ref\bin.dll
